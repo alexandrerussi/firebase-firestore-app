@@ -1,0 +1,1502 @@
+{
+    "produto001": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 699.1,
+        "categoria": "Brinquedos"
+    },
+    "produto002": {
+        "titulo": "Smartphone XPTO",
+        "preco": 815.28,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto003": {
+        "titulo": "Tablet ABC",
+        "preco": 80.32,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto004": {
+        "titulo": "Cal\u00e7a Jeans",
+        "preco": 198.98,
+        "categoria": "Roupas"
+    },
+    "produto005": {
+        "titulo": "Vestido Floral",
+        "preco": 409.68,
+        "categoria": "Roupas"
+    },
+    "produto006": {
+        "titulo": "As Aventuras de AI",
+        "preco": 452.03,
+        "categoria": "Livros"
+    },
+    "produto007": {
+        "titulo": "Notebook Gamma",
+        "preco": 852.32,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto008": {
+        "titulo": "Carrinho de Controle Remoto",
+        "preco": 216.19,
+        "categoria": "Brinquedos"
+    },
+    "produto009": {
+        "titulo": "O Futuro da IA",
+        "preco": 158.32,
+        "categoria": "Livros"
+    },
+    "produto010": {
+        "titulo": "Jaqueta de Couro",
+        "preco": 124.35,
+        "categoria": "Roupas"
+    },
+    "produto011": {
+        "titulo": "P\u00e3o Integral",
+        "preco": 294.4,
+        "categoria": "Alimentos"
+    },
+    "produto012": {
+        "titulo": "Tablet ABC",
+        "preco": 207.87,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto013": {
+        "titulo": "Blusa de Seda",
+        "preco": 476.17,
+        "categoria": "Roupas"
+    },
+    "produto014": {
+        "titulo": "Smartphone XPTO",
+        "preco": 892.97,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto015": {
+        "titulo": "Cal\u00e7a Jeans",
+        "preco": 858.29,
+        "categoria": "Roupas"
+    },
+    "produto016": {
+        "titulo": "O Futuro da IA",
+        "preco": 280.9,
+        "categoria": "Livros"
+    },
+    "produto017": {
+        "titulo": "Carrinho de Controle Remoto",
+        "preco": 894.52,
+        "categoria": "Brinquedos"
+    },
+    "produto018": {
+        "titulo": "Carrinho de Controle Remoto",
+        "preco": 289.6,
+        "categoria": "Brinquedos"
+    },
+    "produto019": {
+        "titulo": "Boneca Falante",
+        "preco": 969.19,
+        "categoria": "Brinquedos"
+    },
+    "produto020": {
+        "titulo": "As Aventuras de AI",
+        "preco": 991.61,
+        "categoria": "Livros"
+    },
+    "produto021": {
+        "titulo": "Tablet ABC",
+        "preco": 281.06,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto022": {
+        "titulo": "Hist\u00f3ria da Tecnologia",
+        "preco": 199.67,
+        "categoria": "Livros"
+    },
+    "produto023": {
+        "titulo": "Lego Construtor",
+        "preco": 125.77,
+        "categoria": "Brinquedos"
+    },
+    "produto024": {
+        "titulo": "Ma\u00e7\u00e3 Org\u00e2nica",
+        "preco": 743.44,
+        "categoria": "Alimentos"
+    },
+    "produto025": {
+        "titulo": "Queijo Gouda",
+        "preco": 722.28,
+        "categoria": "Alimentos"
+    },
+    "produto026": {
+        "titulo": "Ci\u00eancia de Dados Hoje",
+        "preco": 219.4,
+        "categoria": "Livros"
+    },
+    "produto027": {
+        "titulo": "As Aventuras de AI",
+        "preco": 750.0,
+        "categoria": "Livros"
+    },
+    "produto028": {
+        "titulo": "Ci\u00eancia de Dados Hoje",
+        "preco": 359.11,
+        "categoria": "Livros"
+    },
+    "produto029": {
+        "titulo": "Rob\u00f3tica Avan\u00e7ada",
+        "preco": 779.79,
+        "categoria": "Livros"
+    },
+    "produto030": {
+        "titulo": "Lego Construtor",
+        "preco": 772.27,
+        "categoria": "Brinquedos"
+    },
+    "produto031": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 266.25,
+        "categoria": "Brinquedos"
+    },
+    "produto032": {
+        "titulo": "Smartwatch Delta",
+        "preco": 52.5,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto033": {
+        "titulo": "P\u00e3o Integral",
+        "preco": 533.98,
+        "categoria": "Alimentos"
+    },
+    "produto034": {
+        "titulo": "Notebook Gamma",
+        "preco": 133.51,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto035": {
+        "titulo": "Carrinho de Controle Remoto",
+        "preco": 407.0,
+        "categoria": "Brinquedos"
+    },
+    "produto036": {
+        "titulo": "As Aventuras de AI",
+        "preco": 708.41,
+        "categoria": "Livros"
+    },
+    "produto037": {
+        "titulo": "Cal\u00e7a Jeans",
+        "preco": 876.86,
+        "categoria": "Roupas"
+    },
+    "produto038": {
+        "titulo": "Notebook Gamma",
+        "preco": 420.27,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto039": {
+        "titulo": "Vestido Floral",
+        "preco": 686.2,
+        "categoria": "Roupas"
+    },
+    "produto040": {
+        "titulo": "Boneca Falante",
+        "preco": 588.91,
+        "categoria": "Brinquedos"
+    },
+    "produto041": {
+        "titulo": "As Aventuras de AI",
+        "preco": 294.69,
+        "categoria": "Livros"
+    },
+    "produto042": {
+        "titulo": "Smartwatch Delta",
+        "preco": 583.11,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto043": {
+        "titulo": "Chocolate Amargo",
+        "preco": 994.24,
+        "categoria": "Alimentos"
+    },
+    "produto044": {
+        "titulo": "Lego Construtor",
+        "preco": 112.72,
+        "categoria": "Brinquedos"
+    },
+    "produto045": {
+        "titulo": "Queijo Gouda",
+        "preco": 313.17,
+        "categoria": "Alimentos"
+    },
+    "produto046": {
+        "titulo": "Ci\u00eancia de Dados Hoje",
+        "preco": 376.46,
+        "categoria": "Livros"
+    },
+    "produto047": {
+        "titulo": "Smartphone XPTO",
+        "preco": 350.74,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto048": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 72.1,
+        "categoria": "Brinquedos"
+    },
+    "produto049": {
+        "titulo": "Tablet ABC",
+        "preco": 280.14,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto050": {
+        "titulo": "Ci\u00eancia de Dados Hoje",
+        "preco": 948.47,
+        "categoria": "Livros"
+    },
+    "produto051": {
+        "titulo": "C\u00e2mera Fotogr\u00e1fica Epsilon",
+        "preco": 322.21,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto052": {
+        "titulo": "Rob\u00f3tica Avan\u00e7ada",
+        "preco": 761.17,
+        "categoria": "Livros"
+    },
+    "produto053": {
+        "titulo": "Chocolate Amargo",
+        "preco": 508.01,
+        "categoria": "Alimentos"
+    },
+    "produto054": {
+        "titulo": "Notebook Gamma",
+        "preco": 16.88,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto055": {
+        "titulo": "Carrinho de Controle Remoto",
+        "preco": 641.95,
+        "categoria": "Brinquedos"
+    },
+    "produto056": {
+        "titulo": "As Aventuras de AI",
+        "preco": 72.02,
+        "categoria": "Livros"
+    },
+    "produto057": {
+        "titulo": "Notebook Gamma",
+        "preco": 44.69,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto058": {
+        "titulo": "Carrinho de Controle Remoto",
+        "preco": 398.3,
+        "categoria": "Brinquedos"
+    },
+    "produto059": {
+        "titulo": "Smartphone XPTO",
+        "preco": 49.06,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto060": {
+        "titulo": "Lego Construtor",
+        "preco": 399.25,
+        "categoria": "Brinquedos"
+    },
+    "produto061": {
+        "titulo": "Notebook Gamma",
+        "preco": 191.21,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto062": {
+        "titulo": "Jaqueta de Couro",
+        "preco": 184.31,
+        "categoria": "Roupas"
+    },
+    "produto063": {
+        "titulo": "Tablet ABC",
+        "preco": 396.39,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto064": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 10.31,
+        "categoria": "Brinquedos"
+    },
+    "produto065": {
+        "titulo": "Chocolate Amargo",
+        "preco": 949.86,
+        "categoria": "Alimentos"
+    },
+    "produto066": {
+        "titulo": "Queijo Gouda",
+        "preco": 421.09,
+        "categoria": "Alimentos"
+    },
+    "produto067": {
+        "titulo": "Carrinho de Controle Remoto",
+        "preco": 380.57,
+        "categoria": "Brinquedos"
+    },
+    "produto068": {
+        "titulo": "Cal\u00e7a Jeans",
+        "preco": 510.8,
+        "categoria": "Roupas"
+    },
+    "produto069": {
+        "titulo": "Notebook Gamma",
+        "preco": 31.61,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto070": {
+        "titulo": "O Futuro da IA",
+        "preco": 249.44,
+        "categoria": "Livros"
+    },
+    "produto071": {
+        "titulo": "Tablet ABC",
+        "preco": 231.62,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto072": {
+        "titulo": "Jaqueta de Couro",
+        "preco": 498.36,
+        "categoria": "Roupas"
+    },
+    "produto073": {
+        "titulo": "Ci\u00eancia de Dados Hoje",
+        "preco": 962.8,
+        "categoria": "Livros"
+    },
+    "produto074": {
+        "titulo": "Rob\u00f3tica Avan\u00e7ada",
+        "preco": 973.26,
+        "categoria": "Livros"
+    },
+    "produto075": {
+        "titulo": "Chocolate Amargo",
+        "preco": 181.9,
+        "categoria": "Alimentos"
+    },
+    "produto076": {
+        "titulo": "Carrinho de Controle Remoto",
+        "preco": 202.74,
+        "categoria": "Brinquedos"
+    },
+    "produto077": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 613.96,
+        "categoria": "Brinquedos"
+    },
+    "produto078": {
+        "titulo": "Ci\u00eancia de Dados Hoje",
+        "preco": 348.15,
+        "categoria": "Livros"
+    },
+    "produto079": {
+        "titulo": "C\u00e2mera Fotogr\u00e1fica Epsilon",
+        "preco": 688.34,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto080": {
+        "titulo": "Chocolate Amargo",
+        "preco": 613.63,
+        "categoria": "Alimentos"
+    },
+    "produto081": {
+        "titulo": "Hist\u00f3ria da Tecnologia",
+        "preco": 436.9,
+        "categoria": "Livros"
+    },
+    "produto082": {
+        "titulo": "Queijo Gouda",
+        "preco": 106.61,
+        "categoria": "Alimentos"
+    },
+    "produto083": {
+        "titulo": "P\u00e3o Integral",
+        "preco": 701.77,
+        "categoria": "Alimentos"
+    },
+    "produto084": {
+        "titulo": "Smartphone XPTO",
+        "preco": 801.3,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto085": {
+        "titulo": "Queijo Gouda",
+        "preco": 831.19,
+        "categoria": "Alimentos"
+    },
+    "produto086": {
+        "titulo": "Ma\u00e7\u00e3 Org\u00e2nica",
+        "preco": 594.22,
+        "categoria": "Alimentos"
+    },
+    "produto087": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 63.19,
+        "categoria": "Brinquedos"
+    },
+    "produto088": {
+        "titulo": "Smartphone XPTO",
+        "preco": 764.15,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto089": {
+        "titulo": "Iogurte Natural",
+        "preco": 184.97,
+        "categoria": "Alimentos"
+    },
+    "produto090": {
+        "titulo": "Notebook Gamma",
+        "preco": 62.78,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto091": {
+        "titulo": "Carrinho de Controle Remoto",
+        "preco": 446.43,
+        "categoria": "Brinquedos"
+    },
+    "produto092": {
+        "titulo": "Smartwatch Delta",
+        "preco": 631.56,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto093": {
+        "titulo": "Blusa de Seda",
+        "preco": 433.35,
+        "categoria": "Roupas"
+    },
+    "produto094": {
+        "titulo": "Ma\u00e7\u00e3 Org\u00e2nica",
+        "preco": 935.18,
+        "categoria": "Alimentos"
+    },
+    "produto095": {
+        "titulo": "O Futuro da IA",
+        "preco": 807.01,
+        "categoria": "Livros"
+    },
+    "produto096": {
+        "titulo": "Carrinho de Controle Remoto",
+        "preco": 629.86,
+        "categoria": "Brinquedos"
+    },
+    "produto097": {
+        "titulo": "Blusa de Seda",
+        "preco": 788.56,
+        "categoria": "Roupas"
+    },
+    "produto098": {
+        "titulo": "Vestido Floral",
+        "preco": 616.47,
+        "categoria": "Roupas"
+    },
+    "produto099": {
+        "titulo": "P\u00e3o Integral",
+        "preco": 389.12,
+        "categoria": "Alimentos"
+    },
+    "produto100": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 48.63,
+        "categoria": "Brinquedos"
+    },
+    "produto101": {
+        "titulo": "Rob\u00f3tica Avan\u00e7ada",
+        "preco": 111.1,
+        "categoria": "Livros"
+    },
+    "produto102": {
+        "titulo": "P\u00e3o Integral",
+        "preco": 890.54,
+        "categoria": "Alimentos"
+    },
+    "produto103": {
+        "titulo": "Cal\u00e7a Jeans",
+        "preco": 836.52,
+        "categoria": "Roupas"
+    },
+    "produto104": {
+        "titulo": "Smartphone XPTO",
+        "preco": 216.72,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto105": {
+        "titulo": "Queijo Gouda",
+        "preco": 822.56,
+        "categoria": "Alimentos"
+    },
+    "produto106": {
+        "titulo": "As Aventuras de AI",
+        "preco": 291.57,
+        "categoria": "Livros"
+    },
+    "produto107": {
+        "titulo": "Boneca Falante",
+        "preco": 645.53,
+        "categoria": "Brinquedos"
+    },
+    "produto108": {
+        "titulo": "Chocolate Amargo",
+        "preco": 359.07,
+        "categoria": "Alimentos"
+    },
+    "produto109": {
+        "titulo": "Rob\u00f3tica Avan\u00e7ada",
+        "preco": 487.36,
+        "categoria": "Livros"
+    },
+    "produto110": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 132.09,
+        "categoria": "Brinquedos"
+    },
+    "produto111": {
+        "titulo": "Ma\u00e7\u00e3 Org\u00e2nica",
+        "preco": 652.39,
+        "categoria": "Alimentos"
+    },
+    "produto112": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 323.89,
+        "categoria": "Brinquedos"
+    },
+    "produto113": {
+        "titulo": "Chocolate Amargo",
+        "preco": 235.63,
+        "categoria": "Alimentos"
+    },
+    "produto114": {
+        "titulo": "Blusa de Seda",
+        "preco": 733.09,
+        "categoria": "Roupas"
+    },
+    "produto115": {
+        "titulo": "Iogurte Natural",
+        "preco": 618.37,
+        "categoria": "Alimentos"
+    },
+    "produto116": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 842.38,
+        "categoria": "Brinquedos"
+    },
+    "produto117": {
+        "titulo": "Smartphone XPTO",
+        "preco": 589.1,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto118": {
+        "titulo": "Ci\u00eancia de Dados Hoje",
+        "preco": 871.26,
+        "categoria": "Livros"
+    },
+    "produto119": {
+        "titulo": "Hist\u00f3ria da Tecnologia",
+        "preco": 803.27,
+        "categoria": "Livros"
+    },
+    "produto120": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 255.15,
+        "categoria": "Brinquedos"
+    },
+    "produto121": {
+        "titulo": "Smartphone XPTO",
+        "preco": 649.9,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto122": {
+        "titulo": "Vestido Floral",
+        "preco": 830.07,
+        "categoria": "Roupas"
+    },
+    "produto123": {
+        "titulo": "Queijo Gouda",
+        "preco": 17.67,
+        "categoria": "Alimentos"
+    },
+    "produto124": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 143.37,
+        "categoria": "Brinquedos"
+    },
+    "produto125": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 452.41,
+        "categoria": "Brinquedos"
+    },
+    "produto126": {
+        "titulo": "Vestido Floral",
+        "preco": 418.92,
+        "categoria": "Roupas"
+    },
+    "produto127": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 451.77,
+        "categoria": "Brinquedos"
+    },
+    "produto128": {
+        "titulo": "Rob\u00f3tica Avan\u00e7ada",
+        "preco": 914.93,
+        "categoria": "Livros"
+    },
+    "produto129": {
+        "titulo": "Hist\u00f3ria da Tecnologia",
+        "preco": 634.29,
+        "categoria": "Livros"
+    },
+    "produto130": {
+        "titulo": "Smartphone XPTO",
+        "preco": 951.54,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto131": {
+        "titulo": "Tablet ABC",
+        "preco": 501.29,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto132": {
+        "titulo": "O Futuro da IA",
+        "preco": 492.09,
+        "categoria": "Livros"
+    },
+    "produto133": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 583.3,
+        "categoria": "Brinquedos"
+    },
+    "produto134": {
+        "titulo": "Cal\u00e7a Jeans",
+        "preco": 162.22,
+        "categoria": "Roupas"
+    },
+    "produto135": {
+        "titulo": "Hist\u00f3ria da Tecnologia",
+        "preco": 479.5,
+        "categoria": "Livros"
+    },
+    "produto136": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 124.0,
+        "categoria": "Brinquedos"
+    },
+    "produto137": {
+        "titulo": "Lego Construtor",
+        "preco": 18.32,
+        "categoria": "Brinquedos"
+    },
+    "produto138": {
+        "titulo": "Camiseta Polo",
+        "preco": 909.17,
+        "categoria": "Roupas"
+    },
+    "produto139": {
+        "titulo": "Blusa de Seda",
+        "preco": 14.98,
+        "categoria": "Roupas"
+    },
+    "produto140": {
+        "titulo": "Chocolate Amargo",
+        "preco": 736.3,
+        "categoria": "Alimentos"
+    },
+    "produto141": {
+        "titulo": "Ma\u00e7\u00e3 Org\u00e2nica",
+        "preco": 955.4,
+        "categoria": "Alimentos"
+    },
+    "produto142": {
+        "titulo": "Notebook Gamma",
+        "preco": 843.54,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto143": {
+        "titulo": "Ci\u00eancia de Dados Hoje",
+        "preco": 95.0,
+        "categoria": "Livros"
+    },
+    "produto144": {
+        "titulo": "Smartwatch Delta",
+        "preco": 944.81,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto145": {
+        "titulo": "Notebook Gamma",
+        "preco": 836.76,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto146": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 936.14,
+        "categoria": "Brinquedos"
+    },
+    "produto147": {
+        "titulo": "Ma\u00e7\u00e3 Org\u00e2nica",
+        "preco": 743.54,
+        "categoria": "Alimentos"
+    },
+    "produto148": {
+        "titulo": "Vestido Floral",
+        "preco": 165.29,
+        "categoria": "Roupas"
+    },
+    "produto149": {
+        "titulo": "Jaqueta de Couro",
+        "preco": 715.25,
+        "categoria": "Roupas"
+    },
+    "produto150": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 790.37,
+        "categoria": "Brinquedos"
+    },
+    "produto151": {
+        "titulo": "Jaqueta de Couro",
+        "preco": 272.31,
+        "categoria": "Roupas"
+    },
+    "produto152": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 983.46,
+        "categoria": "Brinquedos"
+    },
+    "produto153": {
+        "titulo": "Smartwatch Delta",
+        "preco": 59.16,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto154": {
+        "titulo": "C\u00e2mera Fotogr\u00e1fica Epsilon",
+        "preco": 582.06,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto155": {
+        "titulo": "Boneca Falante",
+        "preco": 740.67,
+        "categoria": "Brinquedos"
+    },
+    "produto156": {
+        "titulo": "Lego Construtor",
+        "preco": 584.85,
+        "categoria": "Brinquedos"
+    },
+    "produto157": {
+        "titulo": "As Aventuras de AI",
+        "preco": 711.65,
+        "categoria": "Livros"
+    },
+    "produto158": {
+        "titulo": "As Aventuras de AI",
+        "preco": 674.14,
+        "categoria": "Livros"
+    },
+    "produto159": {
+        "titulo": "Hist\u00f3ria da Tecnologia",
+        "preco": 229.43,
+        "categoria": "Livros"
+    },
+    "produto160": {
+        "titulo": "Camiseta Polo",
+        "preco": 627.5,
+        "categoria": "Roupas"
+    },
+    "produto161": {
+        "titulo": "Iogurte Natural",
+        "preco": 405.39,
+        "categoria": "Alimentos"
+    },
+    "produto162": {
+        "titulo": "Ma\u00e7\u00e3 Org\u00e2nica",
+        "preco": 124.63,
+        "categoria": "Alimentos"
+    },
+    "produto163": {
+        "titulo": "C\u00e2mera Fotogr\u00e1fica Epsilon",
+        "preco": 764.53,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto164": {
+        "titulo": "As Aventuras de AI",
+        "preco": 61.99,
+        "categoria": "Livros"
+    },
+    "produto165": {
+        "titulo": "As Aventuras de AI",
+        "preco": 487.79,
+        "categoria": "Livros"
+    },
+    "produto166": {
+        "titulo": "Blusa de Seda",
+        "preco": 746.77,
+        "categoria": "Roupas"
+    },
+    "produto167": {
+        "titulo": "O Futuro da IA",
+        "preco": 330.34,
+        "categoria": "Livros"
+    },
+    "produto168": {
+        "titulo": "C\u00e2mera Fotogr\u00e1fica Epsilon",
+        "preco": 18.45,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto169": {
+        "titulo": "Tablet ABC",
+        "preco": 749.86,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto170": {
+        "titulo": "Ma\u00e7\u00e3 Org\u00e2nica",
+        "preco": 911.97,
+        "categoria": "Alimentos"
+    },
+    "produto171": {
+        "titulo": "Iogurte Natural",
+        "preco": 79.21,
+        "categoria": "Alimentos"
+    },
+    "produto172": {
+        "titulo": "Iogurte Natural",
+        "preco": 661.94,
+        "categoria": "Alimentos"
+    },
+    "produto173": {
+        "titulo": "Camiseta Polo",
+        "preco": 545.6,
+        "categoria": "Roupas"
+    },
+    "produto174": {
+        "titulo": "Rob\u00f3tica Avan\u00e7ada",
+        "preco": 907.99,
+        "categoria": "Livros"
+    },
+    "produto175": {
+        "titulo": "Rob\u00f3tica Avan\u00e7ada",
+        "preco": 425.06,
+        "categoria": "Livros"
+    },
+    "produto176": {
+        "titulo": "Smartwatch Delta",
+        "preco": 993.6,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto177": {
+        "titulo": "Notebook Gamma",
+        "preco": 243.84,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto178": {
+        "titulo": "Camiseta Polo",
+        "preco": 695.88,
+        "categoria": "Roupas"
+    },
+    "produto179": {
+        "titulo": "Blusa de Seda",
+        "preco": 687.01,
+        "categoria": "Roupas"
+    },
+    "produto180": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 237.38,
+        "categoria": "Brinquedos"
+    },
+    "produto181": {
+        "titulo": "Ma\u00e7\u00e3 Org\u00e2nica",
+        "preco": 776.47,
+        "categoria": "Alimentos"
+    },
+    "produto182": {
+        "titulo": "Rob\u00f3tica Avan\u00e7ada",
+        "preco": 289.32,
+        "categoria": "Livros"
+    },
+    "produto183": {
+        "titulo": "Ci\u00eancia de Dados Hoje",
+        "preco": 149.66,
+        "categoria": "Livros"
+    },
+    "produto184": {
+        "titulo": "P\u00e3o Integral",
+        "preco": 711.63,
+        "categoria": "Alimentos"
+    },
+    "produto185": {
+        "titulo": "Queijo Gouda",
+        "preco": 369.61,
+        "categoria": "Alimentos"
+    },
+    "produto186": {
+        "titulo": "Notebook Gamma",
+        "preco": 323.65,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto187": {
+        "titulo": "As Aventuras de AI",
+        "preco": 878.81,
+        "categoria": "Livros"
+    },
+    "produto188": {
+        "titulo": "Rob\u00f3tica Avan\u00e7ada",
+        "preco": 628.24,
+        "categoria": "Livros"
+    },
+    "produto189": {
+        "titulo": "Vestido Floral",
+        "preco": 42.71,
+        "categoria": "Roupas"
+    },
+    "produto190": {
+        "titulo": "Camiseta Polo",
+        "preco": 789.55,
+        "categoria": "Roupas"
+    },
+    "produto191": {
+        "titulo": "Jaqueta de Couro",
+        "preco": 856.04,
+        "categoria": "Roupas"
+    },
+    "produto192": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 299.49,
+        "categoria": "Brinquedos"
+    },
+    "produto193": {
+        "titulo": "Cal\u00e7a Jeans",
+        "preco": 939.47,
+        "categoria": "Roupas"
+    },
+    "produto194": {
+        "titulo": "Lego Construtor",
+        "preco": 48.04,
+        "categoria": "Brinquedos"
+    },
+    "produto195": {
+        "titulo": "Hist\u00f3ria da Tecnologia",
+        "preco": 827.25,
+        "categoria": "Livros"
+    },
+    "produto196": {
+        "titulo": "Cal\u00e7a Jeans",
+        "preco": 169.44,
+        "categoria": "Roupas"
+    },
+    "produto197": {
+        "titulo": "Smartphone XPTO",
+        "preco": 675.1,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto198": {
+        "titulo": "Lego Construtor",
+        "preco": 215.5,
+        "categoria": "Brinquedos"
+    },
+    "produto199": {
+        "titulo": "Queijo Gouda",
+        "preco": 427.55,
+        "categoria": "Alimentos"
+    },
+    "produto200": {
+        "titulo": "Jaqueta de Couro",
+        "preco": 283.76,
+        "categoria": "Roupas"
+    },
+    "produto201": {
+        "titulo": "Hist\u00f3ria da Tecnologia",
+        "preco": 301.26,
+        "categoria": "Livros"
+    },
+    "produto202": {
+        "titulo": "As Aventuras de AI",
+        "preco": 996.09,
+        "categoria": "Livros"
+    },
+    "produto203": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 400.95,
+        "categoria": "Brinquedos"
+    },
+    "produto204": {
+        "titulo": "Tablet ABC",
+        "preco": 23.22,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto205": {
+        "titulo": "Camiseta Polo",
+        "preco": 230.85,
+        "categoria": "Roupas"
+    },
+    "produto206": {
+        "titulo": "Boneca Falante",
+        "preco": 284.44,
+        "categoria": "Brinquedos"
+    },
+    "produto207": {
+        "titulo": "Rob\u00f3tica Avan\u00e7ada",
+        "preco": 154.63,
+        "categoria": "Livros"
+    },
+    "produto208": {
+        "titulo": "Chocolate Amargo",
+        "preco": 779.39,
+        "categoria": "Alimentos"
+    },
+    "produto209": {
+        "titulo": "Boneca Falante",
+        "preco": 709.69,
+        "categoria": "Brinquedos"
+    },
+    "produto210": {
+        "titulo": "P\u00e3o Integral",
+        "preco": 742.93,
+        "categoria": "Alimentos"
+    },
+    "produto211": {
+        "titulo": "C\u00e2mera Fotogr\u00e1fica Epsilon",
+        "preco": 300.48,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto212": {
+        "titulo": "Vestido Floral",
+        "preco": 853.96,
+        "categoria": "Roupas"
+    },
+    "produto213": {
+        "titulo": "C\u00e2mera Fotogr\u00e1fica Epsilon",
+        "preco": 412.47,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto214": {
+        "titulo": "Iogurte Natural",
+        "preco": 54.84,
+        "categoria": "Alimentos"
+    },
+    "produto215": {
+        "titulo": "Smartwatch Delta",
+        "preco": 862.92,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto216": {
+        "titulo": "Notebook Gamma",
+        "preco": 299.53,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto217": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 832.97,
+        "categoria": "Brinquedos"
+    },
+    "produto218": {
+        "titulo": "As Aventuras de AI",
+        "preco": 798.07,
+        "categoria": "Livros"
+    },
+    "produto219": {
+        "titulo": "Notebook Gamma",
+        "preco": 391.38,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto220": {
+        "titulo": "Ma\u00e7\u00e3 Org\u00e2nica",
+        "preco": 264.91,
+        "categoria": "Alimentos"
+    },
+    "produto221": {
+        "titulo": "P\u00e3o Integral",
+        "preco": 393.82,
+        "categoria": "Alimentos"
+    },
+    "produto222": {
+        "titulo": "Smartphone XPTO",
+        "preco": 373.33,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto223": {
+        "titulo": "C\u00e2mera Fotogr\u00e1fica Epsilon",
+        "preco": 653.01,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto224": {
+        "titulo": "Smartphone XPTO",
+        "preco": 566.1,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto225": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 838.78,
+        "categoria": "Brinquedos"
+    },
+    "produto226": {
+        "titulo": "Iogurte Natural",
+        "preco": 725.13,
+        "categoria": "Alimentos"
+    },
+    "produto227": {
+        "titulo": "C\u00e2mera Fotogr\u00e1fica Epsilon",
+        "preco": 270.96,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto228": {
+        "titulo": "Camiseta Polo",
+        "preco": 329.51,
+        "categoria": "Roupas"
+    },
+    "produto229": {
+        "titulo": "C\u00e2mera Fotogr\u00e1fica Epsilon",
+        "preco": 949.4,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto230": {
+        "titulo": "Iogurte Natural",
+        "preco": 181.4,
+        "categoria": "Alimentos"
+    },
+    "produto231": {
+        "titulo": "C\u00e2mera Fotogr\u00e1fica Epsilon",
+        "preco": 74.46,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto232": {
+        "titulo": "Blusa de Seda",
+        "preco": 854.59,
+        "categoria": "Roupas"
+    },
+    "produto233": {
+        "titulo": "O Futuro da IA",
+        "preco": 298.57,
+        "categoria": "Livros"
+    },
+    "produto234": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 264.32,
+        "categoria": "Brinquedos"
+    },
+    "produto235": {
+        "titulo": "Vestido Floral",
+        "preco": 956.0,
+        "categoria": "Roupas"
+    },
+    "produto236": {
+        "titulo": "Smartphone XPTO",
+        "preco": 282.51,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto237": {
+        "titulo": "Jaqueta de Couro",
+        "preco": 977.22,
+        "categoria": "Roupas"
+    },
+    "produto238": {
+        "titulo": "Smartphone XPTO",
+        "preco": 861.78,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto239": {
+        "titulo": "Ma\u00e7\u00e3 Org\u00e2nica",
+        "preco": 291.83,
+        "categoria": "Alimentos"
+    },
+    "produto240": {
+        "titulo": "Blusa de Seda",
+        "preco": 296.57,
+        "categoria": "Roupas"
+    },
+    "produto241": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 437.57,
+        "categoria": "Brinquedos"
+    },
+    "produto242": {
+        "titulo": "Carrinho de Controle Remoto",
+        "preco": 564.08,
+        "categoria": "Brinquedos"
+    },
+    "produto243": {
+        "titulo": "Queijo Gouda",
+        "preco": 956.58,
+        "categoria": "Alimentos"
+    },
+    "produto244": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 817.74,
+        "categoria": "Brinquedos"
+    },
+    "produto245": {
+        "titulo": "Queijo Gouda",
+        "preco": 689.41,
+        "categoria": "Alimentos"
+    },
+    "produto246": {
+        "titulo": "Carrinho de Controle Remoto",
+        "preco": 616.95,
+        "categoria": "Brinquedos"
+    },
+    "produto247": {
+        "titulo": "Ci\u00eancia de Dados Hoje",
+        "preco": 715.08,
+        "categoria": "Livros"
+    },
+    "produto248": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 365.3,
+        "categoria": "Brinquedos"
+    },
+    "produto249": {
+        "titulo": "O Futuro da IA",
+        "preco": 254.48,
+        "categoria": "Livros"
+    },
+    "produto250": {
+        "titulo": "Vestido Floral",
+        "preco": 23.12,
+        "categoria": "Roupas"
+    },
+    "produto251": {
+        "titulo": "Rob\u00f3tica Avan\u00e7ada",
+        "preco": 244.67,
+        "categoria": "Livros"
+    },
+    "produto252": {
+        "titulo": "Rob\u00f3tica Avan\u00e7ada",
+        "preco": 997.36,
+        "categoria": "Livros"
+    },
+    "produto253": {
+        "titulo": "Ma\u00e7\u00e3 Org\u00e2nica",
+        "preco": 739.15,
+        "categoria": "Alimentos"
+    },
+    "produto254": {
+        "titulo": "Cal\u00e7a Jeans",
+        "preco": 521.93,
+        "categoria": "Roupas"
+    },
+    "produto255": {
+        "titulo": "Ci\u00eancia de Dados Hoje",
+        "preco": 628.67,
+        "categoria": "Livros"
+    },
+    "produto256": {
+        "titulo": "Notebook Gamma",
+        "preco": 758.11,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto257": {
+        "titulo": "Cal\u00e7a Jeans",
+        "preco": 959.06,
+        "categoria": "Roupas"
+    },
+    "produto258": {
+        "titulo": "Jaqueta de Couro",
+        "preco": 727.83,
+        "categoria": "Roupas"
+    },
+    "produto259": {
+        "titulo": "Camiseta Polo",
+        "preco": 628.04,
+        "categoria": "Roupas"
+    },
+    "produto260": {
+        "titulo": "Jaqueta de Couro",
+        "preco": 858.92,
+        "categoria": "Roupas"
+    },
+    "produto261": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 418.16,
+        "categoria": "Brinquedos"
+    },
+    "produto262": {
+        "titulo": "Iogurte Natural",
+        "preco": 998.98,
+        "categoria": "Alimentos"
+    },
+    "produto263": {
+        "titulo": "Ci\u00eancia de Dados Hoje",
+        "preco": 404.33,
+        "categoria": "Livros"
+    },
+    "produto264": {
+        "titulo": "Iogurte Natural",
+        "preco": 357.3,
+        "categoria": "Alimentos"
+    },
+    "produto265": {
+        "titulo": "As Aventuras de AI",
+        "preco": 858.41,
+        "categoria": "Livros"
+    },
+    "produto266": {
+        "titulo": "O Futuro da IA",
+        "preco": 841.5,
+        "categoria": "Livros"
+    },
+    "produto267": {
+        "titulo": "Jogo de Tabuleiro",
+        "preco": 766.3,
+        "categoria": "Brinquedos"
+    },
+    "produto268": {
+        "titulo": "Lego Construtor",
+        "preco": 117.47,
+        "categoria": "Brinquedos"
+    },
+    "produto269": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 419.99,
+        "categoria": "Brinquedos"
+    },
+    "produto270": {
+        "titulo": "Notebook Gamma",
+        "preco": 619.03,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto271": {
+        "titulo": "Blusa de Seda",
+        "preco": 82.14,
+        "categoria": "Roupas"
+    },
+    "produto272": {
+        "titulo": "O Futuro da IA",
+        "preco": 180.23,
+        "categoria": "Livros"
+    },
+    "produto273": {
+        "titulo": "Tablet ABC",
+        "preco": 71.57,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto274": {
+        "titulo": "Smartwatch Delta",
+        "preco": 351.18,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto275": {
+        "titulo": "O Futuro da IA",
+        "preco": 150.61,
+        "categoria": "Livros"
+    },
+    "produto276": {
+        "titulo": "Queijo Gouda",
+        "preco": 984.67,
+        "categoria": "Alimentos"
+    },
+    "produto277": {
+        "titulo": "Ma\u00e7\u00e3 Org\u00e2nica",
+        "preco": 761.05,
+        "categoria": "Alimentos"
+    },
+    "produto278": {
+        "titulo": "Hist\u00f3ria da Tecnologia",
+        "preco": 528.38,
+        "categoria": "Livros"
+    },
+    "produto279": {
+        "titulo": "Ci\u00eancia de Dados Hoje",
+        "preco": 396.32,
+        "categoria": "Livros"
+    },
+    "produto280": {
+        "titulo": "Lego Construtor",
+        "preco": 578.11,
+        "categoria": "Brinquedos"
+    },
+    "produto281": {
+        "titulo": "Queijo Gouda",
+        "preco": 232.71,
+        "categoria": "Alimentos"
+    },
+    "produto282": {
+        "titulo": "Vestido Floral",
+        "preco": 563.4,
+        "categoria": "Roupas"
+    },
+    "produto283": {
+        "titulo": "Smartphone XPTO",
+        "preco": 890.03,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto284": {
+        "titulo": "Iogurte Natural",
+        "preco": 390.82,
+        "categoria": "Alimentos"
+    },
+    "produto285": {
+        "titulo": "C\u00e2mera Fotogr\u00e1fica Epsilon",
+        "preco": 839.6,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto286": {
+        "titulo": "Camiseta Polo",
+        "preco": 439.82,
+        "categoria": "Roupas"
+    },
+    "produto287": {
+        "titulo": "Camiseta Polo",
+        "preco": 357.07,
+        "categoria": "Roupas"
+    },
+    "produto288": {
+        "titulo": "Lego Construtor",
+        "preco": 798.16,
+        "categoria": "Brinquedos"
+    },
+    "produto289": {
+        "titulo": "As Aventuras de AI",
+        "preco": 665.24,
+        "categoria": "Livros"
+    },
+    "produto290": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 193.82,
+        "categoria": "Brinquedos"
+    },
+    "produto291": {
+        "titulo": "Quebra-Cabe\u00e7a Espacial",
+        "preco": 833.55,
+        "categoria": "Brinquedos"
+    },
+    "produto292": {
+        "titulo": "Notebook Gamma",
+        "preco": 203.28,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto293": {
+        "titulo": "Rob\u00f3tica Avan\u00e7ada",
+        "preco": 857.1,
+        "categoria": "Livros"
+    },
+    "produto294": {
+        "titulo": "Ma\u00e7\u00e3 Org\u00e2nica",
+        "preco": 906.88,
+        "categoria": "Alimentos"
+    },
+    "produto295": {
+        "titulo": "Queijo Gouda",
+        "preco": 894.18,
+        "categoria": "Alimentos"
+    },
+    "produto296": {
+        "titulo": "Ci\u00eancia de Dados Hoje",
+        "preco": 470.23,
+        "categoria": "Livros"
+    },
+    "produto297": {
+        "titulo": "Tablet ABC",
+        "preco": 914.71,
+        "categoria": "Eletr\u00f4nicos"
+    },
+    "produto298": {
+        "titulo": "Iogurte Natural",
+        "preco": 493.96,
+        "categoria": "Alimentos"
+    },
+    "produto299": {
+        "titulo": "Carrinho de Controle Remoto",
+        "preco": 310.01,
+        "categoria": "Brinquedos"
+    },
+    "produto300": {
+        "titulo": "Cal\u00e7a Jeans",
+        "preco": 971.37,
+        "categoria": "Roupas"
+    }
+}
